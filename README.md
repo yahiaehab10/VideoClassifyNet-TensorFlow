@@ -94,6 +94,4 @@ print("Evaluation results:", evaluation)
 ```
 
 ## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
----
+This project was given and managed by the GIU
